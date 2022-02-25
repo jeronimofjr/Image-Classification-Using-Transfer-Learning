@@ -1,6 +1,6 @@
 ### Classificação de Imagem Usando Transfer Learning
 
-![image]('eurosat.jpg')
+![image](eurosat.jpg)
 
 Neste estudo, é abordado o desafio da classificação da cobertura de terras usando imagens de satélite Sentinel-2. As imagens de satélite Sentinel-2 são de acesso aberto e gratuito fornecidas no programa de observação da Terra Copernicus.
 
@@ -23,7 +23,7 @@ O conjunto de dados EuroSAT é constituído de 10 classes com 27.000 amostras ma
 
 #### Imagens de exemplo
 
-![image2]('fig.png')
+![image2](fig.png)
 
 #### Transfer Learning
 Transfer Learning é a transferência do conhecimento (**feature maps**) que a rede adquiriu de uma tarefa, onde temos uma grande quantidade de dados, para uma nova tarefa, onde os dados não estão disponíveis em abundância. Geralmente é usado onde um modelo de rede neural é treinado pela primeira vez em um problema semelhante ao problema que está sendo resolvido.
